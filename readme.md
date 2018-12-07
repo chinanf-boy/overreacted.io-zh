@@ -31,7 +31,7 @@
 
 <!-- doc-templite END generated -->
 
-## blog(最后一篇,may 有点长，Issue me)
+## blog(最后一篇,may 有点长，要修正，请PR)
 
 - [x] [为什么我们编写了 super(props)?](src/pages/why-do-we-write-super-props.zh.md)
 - [x] [为啥 React (元素)Elements 有一个 $$typeof 属性(Property)?](src/pages/why-do-react-elements-have-typeof-property.zh.md)
