@@ -1,5 +1,5 @@
 ---
-title: 到底 React 怎么 以一个 function ，来推断为一个 class?
+title: 到底 React 怎么 将 一个 Function ，推断为一个 Class?
 date: '2018-12-02'
 spoiler: 我们来翻译翻译 classes, new, instanceof, prototype chains, 和 API 设计.
 ---
@@ -22,7 +22,7 @@ class Greeting extends React.Component {
 }
 ```
 
-(直到[不久前](https://reactjs.org/docs/hooks-intro.html)，这是使用状态(state)的唯一方法.)
+(还在[不久前](https://reactjs.org/docs/hooks-intro.html)，这可是使用状态(state)的唯一方法.)
 
 当你想要渲染一个`<Greeting />`，你不需要在乎它是如何定义的:
 

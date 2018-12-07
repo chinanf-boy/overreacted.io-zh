@@ -35,7 +35,7 @@
 
 - [x] [为什么我们编写了 super(props)?](src/pages/why-do-we-write-super-props.zh.md)
 - [x] [为啥 React (元素)Elements 有一个 $$typeof 属性(Property)?](src/pages/why-do-react-elements-have-typeof-property.zh.md)
-- [x] [到底 React 怎么 以一个 function ，来推断为一个 class?](src/pages/how-does-react-tell-a-class-from-a-function.zh.md)
+- [x] [到底 React 怎么 将 一个 Function ，推断为一个 Class?](src/pages/how-does-react-tell-a-class-from-a-function.zh.md)
 
 ### 贡献
 
