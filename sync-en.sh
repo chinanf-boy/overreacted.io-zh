@@ -1,4 +1,4 @@
-cat './.mds-list' | while read line
+cat './.mds-list' | while read line || [[ -n ${line} ]]
 do
     testseq="zh.md"
     if [[ $line =~ $testseq || "$line" == "" ]]; then
