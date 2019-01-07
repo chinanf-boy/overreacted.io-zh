@@ -37,11 +37,11 @@
 - [x] [到底 React 怎么 将 一个 Function ，推断为一个 Class?](src/pages/how-does-react-tell-a-class-from-a-function.zh.md)
 
 - [ ] [我的 热加载 白名单](source/src/pages/my-wishlist-for-hot-reloading.zh.md)
-- [x] [针对更新进行优化](/source/src/pages/optimized-for-change.zh.md)
+- [x] [针对更新进行优化](/src/pages/optimized-for-change.zh.md)
 - [ ] [`setstate` 是如何知道它应该做什么](source/src/pages/how-does-setstate-know-what-to-do.zh.md)
 - [ ] [准备技术讲座，第1部分：动机](source/src/pages/preparing-for-tech-talk-part-1-motivation.zh.md)
-- [x] [UI工程的元素](source/src/pages/the-elements-of-ui-engineering.zh.md)
-- [x] [自2018年以来我不知道的事情](source/src/pages/things-i-dont-know-as-of-2018.zh.md)
+- [x] [UI工程的元素](/src/pages/the-elements-of-ui-engineering.zh.md)
+- [x] [自2018年以来我不知道的事情](/src/pages/things-i-dont-know-as-of-2018.zh.md)
 - [ ] [为什么React Hooks依赖于调用顺序？](source/src/pages/why-do-hooks-rely-on-call-order.zh.md)
 
 ### 贡献
