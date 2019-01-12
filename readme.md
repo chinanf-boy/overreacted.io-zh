@@ -21,9 +21,10 @@
 <!-- repo = 'gaearon/overreacted.io' -->
 <!-- commit = '4d24ae5b114d80e6694795607fc92c16bb624197' -->
 <!-- time = '2019-01-06' -->
-翻译的原文 | 与日期 | 最新更新 | 更多
----|---|---|---
-[commit] | ⏰ 2019-01-06 | ![last] | [中文翻译][translate-list]
+
+| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
+| ---------- | ------------- | -------- | -------------------------- |
+| [commit]   | ⏰ 2019-01-06 | ![last]  | [中文翻译][translate-list] |
 
 [last]: https://img.shields.io/github/last-commit/gaearon/overreacted.io.svg
 [commit]: https://github.com/gaearon/overreacted.io/tree/4d24ae5b114d80e6694795607fc92c16bb624197
@@ -36,13 +37,13 @@
 - [x] [为啥 React (元素)Elements 有一个 \$\$typeof 属性(Property)?](src/pages/why-do-react-elements-have-typeof-property.zh.md)
 - [x] [到底 React 怎么 将 一个 Function ，推断为一个 Class?](src/pages/how-does-react-tell-a-class-from-a-function.zh.md)
 
-- [ ] [我的 热加载 白名单](source/src/pages/my-wishlist-for-hot-reloading.zh.md)
-- [x] [针对更新进行优化](/src/pages/optimized-for-change.zh.md)
-- [ ] [`setstate` 是如何知道它应该做什么](source/src/pages/how-does-setstate-know-what-to-do.zh.md)
-- [ ] [准备技术讲座，第1部分：动机](source/src/pages/preparing-for-tech-talk-part-1-motivation.zh.md)
-- [x] [UI工程的元素](/src/pages/the-elements-of-ui-engineering.zh.md)
-- [x] [自2018年以来我不知道的事情](/src/pages/things-i-dont-know-as-of-2018.zh.md)
-- [ ] [为什么React Hooks依赖于调用顺序？](source/src/pages/why-do-hooks-rely-on-call-order.zh.md)
+- [x] [我的 热加载 白名单](src/pages/my-wishlist-for-hot-reloading.zh.md)
+- [x] [针对更新,进行优化](/src/pages/optimized-for-change.zh.md)
+- [x] [`setstate` 是如何知道它应该做什么](src/pages/how-does-setstate-know-what-to-do.zh.md)
+- [x] [准备技术讲座，第 1 部分：动机](src/pages/preparing-for-tech-talk-part-1-motivation.zh.md)
+- [x] [UI 工程的元素](/src/pages/the-elements-of-ui-engineering.zh.md)
+- [x] [自 2018 年以来我不知道的事情](/src/pages/things-i-dont-know-as-of-2018.zh.md)
+- [x] [为什么 React Hooks 依赖于调用顺序？](src/pages/why-do-hooks-rely-on-call-order.zh.md)
 
 ### 贡献
 
