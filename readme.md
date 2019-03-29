@@ -21,10 +21,9 @@
 <!-- repo = 'gaearon/overreacted.io' -->
 <!-- commit = '4d24ae5b114d80e6694795607fc92c16bb624197' -->
 <!-- time = '2019-01-06' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2019-01-06 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2019-01-06 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/gaearon/overreacted.io.svg
 [commit]: https://github.com/gaearon/overreacted.io/tree/4d24ae5b114d80e6694795607fc92c16bb624197
@@ -51,7 +50,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
